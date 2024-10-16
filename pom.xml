@@ -28,6 +28,8 @@
 		<url/>
 	</scm>
 	<properties>
+		<sonar.host.url>http://54.159.173.94:9000/</sonar.host.url>
+		  <sonar.host.login>2ea560e4684fcc3730a784e8d8c0dc740315d141</sonar.host.login>
 		<java.version>17</java.version>
 		<spring-boot-admin.version>3.3.3</spring-boot-admin.version>
 	</properties>
